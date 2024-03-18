@@ -1,22 +1,26 @@
-# Personal Portfolio Project - Booking
+# Personal Portfolio Project - Dropbox
+
+![Dropbox](https://github.com/ilgarcia/Portfolio-Dropbox/assets/60369262/ea68b03a-1912-40a6-be42-634e497dc669)
 
 ## Description
 
-This is a personal portfolio website built using React. It serves as a showcase for your skills, projects, and experiences. The project is designed to be easily customizable and can be used by developers, designers, or anyone looking to create a personalized online presence.
+This is a project for educational purpose cloning the booking site... the idea of this project is to use Oxylabs to webscraping.
 
 ## Features
 
+- Drag and drop feature.
 - Responsive design for various screen sizes.
 - Dynamic content rendering using React components.
-- Easily customizable sections for projects, skills, and experiences.
-- Contact form for visitors to get in touch with you.
+- Fetching Clerk API (Authentication.)
 
 ## Technologies Used
 
 - React
-- HTML5
-- CSS3
-- [Additional libraries or tools if any]
+- Clerk
+- Shadcn
+- Firebase
+- Typescript
+- Zustand
 
 ## Getting Started
 
@@ -38,7 +42,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 3. **Run the development server:**
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 *The app will be accessible with your browser at[http://localhost:3000](http://localhost:3000).*
@@ -52,11 +56,6 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```
    
 3. **Deploy the contents of the build directory to your hosting platform of choice.**
-
-## Acknowledgments
-
-* [Any external libraries or resources used]
-* [Inspiration or references]
 
 ## License
 
