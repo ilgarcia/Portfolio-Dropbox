@@ -4,20 +4,20 @@
 
 ## Description
 
-This is a project for educational purpose cloning the booking site... the idea of this project is to use Oxylabs to webscraping.
+This is a project for educational purpose cloning the booking site... the idea of this project is to create a drag an drop aplication with **Firebase** and manage state with **Zustand**.
 
 ## Features
 
 - Drag and drop feature.
 - Responsive design for various screen sizes.
-- Dynamic content rendering using React components.
+- Using Zustand for state management.
 - Fetching Clerk API (Authentication.)
 
 ## Technologies Used
 
 - React
+- Next
 - Clerk
-- Shadcn
 - Firebase
 - Typescript
 - Zustand
